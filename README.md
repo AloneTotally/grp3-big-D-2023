@@ -27,3 +27,5 @@ The accelerometer will track the vertical speed of the lift and monitor it by st
 7. **Buzzer:** inform lift user to leave the lift
 
 ![Labelled Diagram](images/Flow-of-prototype.png?raw=true)
+
+### Demo of prototype
