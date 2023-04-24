@@ -1,4 +1,5 @@
 # Group 3 big D project 2023
+This is a project made at the SUTD-NP-SST Big-D Camp in 2023. This project was made in 3 days, from 31 January to 2 February
 
 ## Problem
 
