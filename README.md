@@ -14,7 +14,7 @@ When the accelerometer and gyroscope detects irregular movement of the lift due 
 
 The accelerometer will track the vertical speed of the lift and monitor it by storing it. While the gyroscope will do the same for the angular velocity. When an extreme value is obtained, the motors will move the user to the next level and halt. The LCD screen will show a warning message and the speaker will tell the users to leave the lift.
 
-![Flowchart](https://github.com/AloneTotally/grp3-big-D-2023/blob/main/Labelled-diagram.png?raw=true)
+![Flowchart](images/Labelled-diagram.png)
 
 ### Materials
 
@@ -26,4 +26,4 @@ The accelerometer will track the vertical speed of the lift and monitor it by st
 6. **LCD screen:** inform lift user that the lift will stop and to leave the lift
 7. **Buzzer:** inform lift user to leave the lift
 
-![Labelled Diagram](https://github.com/AloneTotally/grp3-big-D-2023/blob/main/Flow-of-prototype.png?raw=true)
+![Labelled Diagram](images/Flow-of-prototype.png?raw=true)
